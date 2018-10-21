@@ -5,7 +5,7 @@ CS-50-problem set5
 *
 *
 Creating a dictionary header file */
-
+// add mopre header files
 #ifndef DICTIONARY_H
 #define DICTIONARY_H
 
